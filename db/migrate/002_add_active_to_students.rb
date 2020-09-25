@@ -1,1 +1,3 @@
-class AddActiveToStudents < 
+class AddActiveToStudents < ActiveRecord::Migration 
+  
+end 

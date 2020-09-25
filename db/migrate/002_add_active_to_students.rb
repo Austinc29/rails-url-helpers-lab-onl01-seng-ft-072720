@@ -1,7 +1,7 @@
 class AddActiveToStudents < ActiveRecord::Migration 
   
   def change 
-    add column 
+    add_column  
   end 
   
 end 
